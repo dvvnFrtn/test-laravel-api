@@ -1,0 +1,2 @@
+2024/07/12 02:53:40 [emerg] 12#12: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/sites-available/laravel.conf:17
+2024/07/12 02:57:14 [emerg] 12#12: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/sites-available/laravel.conf:18
